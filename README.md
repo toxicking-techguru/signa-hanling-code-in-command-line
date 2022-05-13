@@ -40,6 +40,14 @@ signal (SIGTERM,handler);//tells the program to terminate itself
         printf("Turing was right\n");
        
     }
-     
+    ggjjjjjjjgg
+    
+    ffrg
+    zgrfz
+    
+    gf
+    gfr
+    
+    
     return 0;
 }
