@@ -1,4 +1,5 @@
-# signa-handling-code-in-command-line
+
+   # signa-handling-code-in-command-line
 This code uses sygnal to count  the number of loops  and execution time when CTRL+ C signal is sent
 /*
 
@@ -39,14 +40,6 @@ signal (SIGTERM,handler);//tells the program to terminate itself
         sleep(1);//waiting for signal to be delivered
         printf("Turing was right\n");
        
-    }
-    ggjjjjjjjgg
-    
-    ffrg
-    zgrfz
-    
-    gf
-    gfr
     
     
     return 0;
